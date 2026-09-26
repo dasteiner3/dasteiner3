@@ -1,4 +1,5 @@
 <b> Daniel Steiner -- Mathematics & Computer Science @ UChicago </b>
+
 Interested in algorithms, systems, data, and applied software engineering
 
 WikiMapping — interactive Wikipedia directed graph explorer; Flask, Vite, SQLite, Sigma.js, graph search; live demo:[WikiMapping](https://dasteiner.com)
